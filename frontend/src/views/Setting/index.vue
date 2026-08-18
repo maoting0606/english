@@ -1,0 +1,1 @@
+<template><el-card><h1>系统设置</h1><el-descriptions border><el-descriptions-item label="文件存储">阿里云 OSS Private Bucket</el-descriptions-item><el-descriptions-item label="发音评测">腾讯云智聆</el-descriptions-item></el-descriptions></el-card></template>
