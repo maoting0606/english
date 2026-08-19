@@ -7,7 +7,7 @@
         class="source-textarea"
         type="textarea"
         resize="vertical"
-        placeholder="粘贴微信群老师作业文本...&#10;apple 苹果&#10;banana 香蕉&#10;beautiful 美丽的"
+        placeholder="粘贴微信群老师作业文本..."
       />
 
       <div class="divider" />
