@@ -1,0 +1,1 @@
+<template><el-card><h1>发音评测</h1><el-input v-model="word" placeholder="目标单词"/><el-button>播放标准发音</el-button><el-button type="primary">开始录音</el-button><el-result title="等待评测" sub-title="录音会转为 16kHz/16bit/Mono WAV 后提交腾讯智聆。"/></el-card></template><script setup>import{ref}from'vue';const word=ref('beautiful')</script>
